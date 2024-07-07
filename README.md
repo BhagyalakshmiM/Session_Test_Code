@@ -11,4 +11,4 @@
 1. **Run the Node.js File:**
     Sample data can be added in testWithData.js file and tested
     ```sh
-    node testWithData.js
+    node billing_test.js input.txt
